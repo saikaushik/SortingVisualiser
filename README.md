@@ -1,4 +1,4 @@
-# SortingVisualizer
+# SortingVisualiser
 
 ## This is a simple visualisation website created using HTML, CSS and Javascript.
 
