@@ -7,3 +7,4 @@ You can use the website to visualise the following sorting algorthims:
 - Merge Sort
 - Quick Sort
 
+You can find the website  [here](https://saikaushik.github.io/SortingVisualiser/)
